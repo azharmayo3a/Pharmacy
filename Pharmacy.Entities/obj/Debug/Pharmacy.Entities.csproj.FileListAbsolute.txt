@@ -1,0 +1,7 @@
+G:\.NET Lectures\2014-2015\Pahrmacy\Pharmacy.Entities\bin\Debug\Pharmacy.Entities.dll
+G:\.NET Lectures\2014-2015\Pahrmacy\Pharmacy.Entities\bin\Debug\Pharmacy.Entities.pdb
+G:\.NET Lectures\2014-2015\Pahrmacy\Pharmacy.Entities\obj\Debug\Pharmacy.Entities.dll
+G:\.NET Lectures\2014-2015\Pahrmacy\Pharmacy.Entities\obj\Debug\Pharmacy.Entities.pdb
+G:\.NET Lectures\2014-2015\Pahrmacy\Pharmacy.Entities\bin\Debug\Pharmacy.Common.dll
+G:\.NET Lectures\2014-2015\Pahrmacy\Pharmacy.Entities\bin\Debug\Pharmacy.Common.pdb
+G:\.NET Lectures\2014-2015\Pahrmacy\Pharmacy.Entities\obj\Debug\Pharmacy.Entities.csprojResolveAssemblyReference.cache
