@@ -1,0 +1,12 @@
+G:\.NET Lectures\2014-2015\Pahrmacy\Pharmacy.DAL\bin\Debug\Pharmacy.DAL.dll
+G:\.NET Lectures\2014-2015\Pahrmacy\Pharmacy.DAL\bin\Debug\Pharmacy.DAL.pdb
+G:\.NET Lectures\2014-2015\Pahrmacy\Pharmacy.DAL\obj\Debug\Pharmacy.DAL.dll
+G:\.NET Lectures\2014-2015\Pahrmacy\Pharmacy.DAL\obj\Debug\Pharmacy.DAL.pdb
+G:\.NET Lectures\2014-2015\Pahrmacy\Pharmacy.DAL\bin\Debug\Pharmacy.Common.dll
+G:\.NET Lectures\2014-2015\Pahrmacy\Pharmacy.DAL\bin\Debug\Pharmacy.Common.pdb
+G:\.NET Lectures\2014-2015\Pahrmacy\Pharmacy.DAL\obj\Debug\Pharmacy.DAL.csprojResolveAssemblyReference.cache
+G:\.NET Lectures\2014-2015\Pahrmacy\Pharmacy.DAL\bin\Debug\Pharmacy.Entities.dll
+G:\.NET Lectures\2014-2015\Pahrmacy\Pharmacy.DAL\bin\Debug\Pharmacy.Entities.pdb
+G:\.NET Lectures\2014-2015\Pahrmacy\Pharmacy.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\.NET Lectures\2014-2015\Pahrmacy\Pharmacy.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+G:\.NET Lectures\2014-2015\Pahrmacy\Pharmacy.DAL\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
