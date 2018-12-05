@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pharmacy.DAL", "Pharmacy.DAL\Pharmacy.DAL.csproj", "{3FA1AD70-CD30-46BC-84B9-8C198854FCFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pharmacy.Entities", "Pharmacy.Entities\Pharmacy.Entities.csproj", "{F6AFB670-3B54-49B1-AAD1-62AD400315AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pharmacy.Common", "Pharmacy.Common\Pharmacy.Common.csproj", "{27E0023D-A26B-410D-9A45-8917D30ECB06}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Pharmacy.UI", "Pharmacy.UI\", "{5EB299A1-E1E4-4BA6-AF23-4C97E5F83D59}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{27E0023D-A26B-410D-9A45-8917D30ECB06}|Pharmacy.Common.dll;{3FA1AD70-CD30-46BC-84B9-8C198854FCFB}|Pharmacy.DAL.dll;{F6AFB670-3B54-49B1-AAD1-62AD400315AB}|Pharmacy.Entities.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/Pharmacy.UI"
+		Debug.AspNetCompiler.PhysicalPath = "Pharmacy.UI\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Pharmacy.UI\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Pharmacy.UI"
+		Release.AspNetCompiler.PhysicalPath = "Pharmacy.UI\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Pharmacy.UI\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1627"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FA1AD70-CD30-46BC-84B9-8C198854FCFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FA1AD70-CD30-46BC-84B9-8C198854FCFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FA1AD70-CD30-46BC-84B9-8C198854FCFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FA1AD70-CD30-46BC-84B9-8C198854FCFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6AFB670-3B54-49B1-AAD1-62AD400315AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6AFB670-3B54-49B1-AAD1-62AD400315AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6AFB670-3B54-49B1-AAD1-62AD400315AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6AFB670-3B54-49B1-AAD1-62AD400315AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27E0023D-A26B-410D-9A45-8917D30ECB06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E0023D-A26B-410D-9A45-8917D30ECB06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27E0023D-A26B-410D-9A45-8917D30ECB06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27E0023D-A26B-410D-9A45-8917D30ECB06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EB299A1-E1E4-4BA6-AF23-4C97E5F83D59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EB299A1-E1E4-4BA6-AF23-4C97E5F83D59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EB299A1-E1E4-4BA6-AF23-4C97E5F83D59}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EB299A1-E1E4-4BA6-AF23-4C97E5F83D59}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
